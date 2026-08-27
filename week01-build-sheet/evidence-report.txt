@@ -1,0 +1,30 @@
+﻿=== CVNP1606-W01 Evidence Report ===
+Generated : 2026-08-27 16:10:33
+Host      : DESKTOP-LHJ9KL2
+
+[SYSTEM]
+  Hostname   : DESKTOP-LHJ9KL2
+  OS         : Windows 10 Pro
+  Version    : 10.0.26200
+  Firmware   : Uefi
+
+[LOCAL ACCOUNTS]
+  Administrator            Enabled: False
+  DefaultAccount           Enabled: False
+  Guest                    Enabled: False
+  Wclar2                   Enabled: True
+  Wclark                   Enabled: True
+  WDAGUtilityAccount       Enabled: False
+
+[ADMINISTRATORS GROUP]
+  DESKTOP-LHJ9KL2\Administrator (Local)
+  DESKTOP-LHJ9KL2\Wclark (Local)
+
+[TPM]
+  TpmPresent   : True
+  TpmEnabled   : True
+
+[REQUIRED FILES]
+  inventory.txt : FOUND (0 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.
