@@ -1,5 +1,5 @@
 ﻿=== CVNP1606-W01 Evidence Report ===
-Generated : 2026-08-27 16:47:01
+Generated : 2026-08-27 16:50:47
 Host      : DESKTOP-LHJ9KL2
 
 [SYSTEM]
@@ -25,6 +25,6 @@ Host      : DESKTOP-LHJ9KL2
   TpmEnabled   : True
 
 [REQUIRED FILES]
-  inventory.txt : FOUND (0 bytes)
+  inventory.txt : FOUND (190 bytes)
 
 Commit this file (evidence-report.txt) to your GitHub repo under week01-build-sheet/.
