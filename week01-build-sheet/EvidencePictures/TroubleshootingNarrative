@@ -1,0 +1,17 @@
+1.What went wrong, or what could realistically have gone wrong?
+-collect.evidence.ps1 was blocked by SecurityErrors
+
+2.What evidence did you check first?
+-I looked through the error message itself to try and see if I could set the execution policy to allow collect.evidence.ps1 to work correctly
+
+3.What did you try?
+-I found the Set-ExectionPolicy, so I opened a Administrative version of Powershell ISE and set it to Bypass
+
+4.What fixed it, or what would you try next?
+-Once I opened The administrative version of Powershell ISE and followed the path again and bypassed it using Set-ExectionPolicy it loaded the correct scripts and the output the correct information
+
+5.How did you verify the result?
+-I opened a separate window of Powershell ISE and Ran the script a couple of more times to make sure it was working and stable
+
+6.What was the support or security impact of the issue or fix?
+-I was able to see the machines information, seeing if the TPM was present and enabled. It also allowed me to look into acquiring the required files for the script
