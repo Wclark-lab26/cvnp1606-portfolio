@@ -1,16 +1,18 @@
 ## Environment
 
-* \*\*OS\*\*: Windows 11
-* \*\*Monitor Model\*\*: ViewSonic VX3218-PC-MHD
+**OS**: Windows 11
+**Monitor Model**: ViewSonic VX3218-PC-MHD
 
 
 
-* \*\*User Group\*\*: ACME Pilot Group
-* \*\*Support Organization\*\*: Nexus Support Services
-* \*\*Ticket Reference\*\*: CVNP1606-W02-002-001
-* \*\*Business Impact\*\*: Medium
+**User Group**: ACME Pilot Group
 
-\---
+**Support Organization**: Nexus Support Services
+
+**Ticket Reference**: CVNP1606-W02-002-001
+
+**Business Impact**: Medium
+
 
 ## User goal:
 
@@ -20,7 +22,7 @@ Fix visible horizontal screen tearing split after a windows 11 refresh without c
 
 
 
-\## Tool path tested:
+## Tool path tested:
 
 
 
@@ -32,20 +34,21 @@ Steps:
 
 
 
-1\. Press \*\*Windows key\*\* and \*\*I\*\* to open Settings.
+1. Press **Windows key** and **I** to open Settings.
 
-2\. Select \*\*System\*\*.
+2. Select **System**.
 
-3\. Find \*\*Advanced Display\*\*.
+3. Find **Advanced Display**.
 
-4\. Find \*\*Choose a refresh rate\*\*.
+4. Find **Choose a refresh rate**.
 
-5\. Change refresh rate \*\*60 Hz\*\* to \*\*165 Hz\*\*
+5. Change refresh rate **60 Hz** to **165 Hz**
+   
 6. Restart computer to instantly apply changes
 
 
 
-\## Evidence:
+## Evidence:
 
 
 
@@ -61,7 +64,7 @@ The user confirmed that \*\*165 Hz\*\* has fixed the horizontal screen tearing a
 
 
 
-\## When to escalate:
+## When to escalate:
 
 
 
@@ -69,17 +72,17 @@ If screen tearing continues after Display and Advanced Display settings have bee
 
 
 
-\- Device model
+- Device model
 
 
 
-\- Screen resolution
+- Screen resolution
 
 
 
-\- Graphics adapter information
+- Graphics adapter information
 
 
 
-\- Current display scaling percentage
+- Current display scaling percentage
 
