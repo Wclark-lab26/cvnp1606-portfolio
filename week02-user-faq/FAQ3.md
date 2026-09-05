@@ -1,16 +1,16 @@
 ## Environment
 
-* \*\*OS\*\*: Windows 11
-* \*\*Microphone Model\*\*:Shure MV5C Home Office USB Microphone
+**OS**: Windows 11
+**Microphone Model**:Shure MV5C Home Office USB Microphone
 
 
 
-* \*\*User Group\*\*: ACME Pilot Group
-* \*\*Support Organization\*\*: Nexus Support Services
-* \*\*Ticket Reference\*\*: CVNP1606-W02-002-003
-* \*\*Business Impact\*\*: Medium
+**User Group**: ACME Pilot Group
+**Support Organization**: Nexus Support Services
+**Ticket Reference**: CVNP1606-W02-002-003
+**Business Impact**: Medium
 
-\---
+---
 
 ## User goal:
 
@@ -20,7 +20,7 @@ Adjust microphone so voice comes through and others can hear.
 
 
 
-\## Tool path tested:
+## Tool path tested:
 
 
 
@@ -32,23 +32,23 @@ Steps:
 
 
 
-1\. Search and open \*\*Control Panel\*\*.
+1. Search and open **Control Panel&*.
 
-2\. Select \*\*Hardware and Sound\*\*.
+2. Select **Hardware and Sound**.
 
-3\. Find \*\*Sound\*\*.
+3. Find **Sound**.
 
-4\. Find \*\*Recording\*\*.
+4. Find **Recording**.
 
-5\. Find the microphone with the corresponding brand and model (Shure MV5C Home Office USB Microphone).
+5. Find the microphone with the corresponding brand and model (Shure MV5C Home Office USB Microphone).
 
-6\. Find Levels
+6. Find **Levels**
 
-7\. Adjust slider and unmute the microphone.
+7. Adjust slider and unmute the microphone.
 
 
 
-\## Evidence:
+## Evidence:
 
 
 
@@ -68,7 +68,7 @@ The user confirmed that after unmuting the microphone and adjusting the sound. T
 
 
 
-\## When to escalate:
+## When to escalate:
 
 
 
