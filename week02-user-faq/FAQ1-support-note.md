@@ -1,4 +1,4 @@
-\## Ticket CVNP1606-W02-002-001 — Resolved
+## Ticket CVNP1606-W02-002-001 — Resolved
 
 
 
