@@ -60,7 +60,7 @@ screenshots/FAQ1-refresh-rate.png
 
 
 
-The user confirmed that \*\*165 Hz\*\* has fixed the horizontal screen tearing after restart
+The user confirmed that **165 Hz** has fixed the horizontal screen tearing after restart
 
 
 
