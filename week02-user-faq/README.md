@@ -1,4 +1,4 @@
-\# CVNP1606 - Week 2 User Support FAQ
+## CVNP1606 - Week 2 User Support FAQ
 
 ## Ticket: CVNP1606-W02-002
 
@@ -14,22 +14,22 @@ The goal of this FAQ is to provide users and support staff with consistent and v
 
 
 
-\---
+---
 
 
 
 ## Environment
 
-* \*\*OS\*\*: Windows 11
+**OS**: Windows 11
 
 
 
-* \*\*User Group\*\*: ACME Pilot Group
-* \*\*Support Organization\*\*: Nexus Support Services
-* \*\*Ticket Reference\*\*: CVNP1606-W02-002
-* \*\*Business Impact\*\*: Medium
+**User Group**: ACME Pilot Group
+**Support Organization**: Nexus Support Services
+**Ticket Reference**: CVNP1606-W02-002
+**Business Impact**: Medium
 
-\---
+---
 
 ## User goal:
 
@@ -39,7 +39,7 @@ Make text easier to read after a windows 11 refresh without changing unrelated s
 
 
 
-\## Tool path tested:
+## Tool path tested:
 
 
 
@@ -51,19 +51,19 @@ Steps:
 
 
 
-1\. Press \*\*Windows key\*\* and \*\*I\*\* to open Settings.
+1. Press **Windows key** and **I** to open Settings.
 
-2\. Select \*\*Accessibility\*\*.
+2. Select **Accessibility**.
 
-3\. Find \*\*Text size\*\*.
+3. Find **Text size**.
 
-4\. Adjust slider to \*\*150%\*\*.
+4. Adjust slider to **150%**.
 
 5\. Verify that it is easier to read across any Windows applications.
 
 
 
-\## Evidence:
+## Evidence:
 
 
 
@@ -75,11 +75,11 @@ screenshots/example-text-size.png
 
 
 
-The user confirmed that \*\*150% Text Size\*\* restored readability issues and resolved the issue occurring with the Windows 11 refresh.
+The user confirmed that **150% Text Size** restored readability issues and resolved the issue occurring with the Windows 11 refresh.
 
 
 
-\## When to escalate:
+## When to escalate:
 
 
 
@@ -87,21 +87,21 @@ If display problems continue after Accessibility Text size and Display scale set
 
 
 
-\- Device model
+- Device model
 
 
 
-\- Monitor model
+- Monitor model
 
 
 
-\- Screen resolution
+- Screen resolution
 
 
 
-\- Graphics adapter information
+- Graphics adapter information
 
 
 
-\- Current display scaling percentage
+- Current display scaling percentage
 
