@@ -42,3 +42,11 @@ ACME is onboarding a group of seasonal staff who need Windows access to complete
 - Screenshots
 
 - GitHub
+
+
+
+
+
+## What I Can Do Now
+
+I created, mangaged and audited local Windows accounts for seasonal staff, tested administrative behaviour and possible escalation, and wrote a memo explaining why each access decision should be analyzed, documented, and approved to protect ACME's endpoints
