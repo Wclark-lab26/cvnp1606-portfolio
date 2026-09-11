@@ -109,3 +109,10 @@ If display problems continue after Accessibility Text size and Display scale set
 
 I have created a verified Windows 11 support FAQ that helps users find common settings and functions, and gives technicians evidence-backed steps and screenshots for resolving technical issues and navigation tickets.
 
+
+
+
+
+
+No ai was used
+
