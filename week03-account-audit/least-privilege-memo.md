@@ -12,7 +12,7 @@ This document shows the logic and reason for assigning administrative access and
 
 
 
-##When local administrator access is justified. 
+## When local administrator access is justified. 
 
 
 
@@ -22,7 +22,7 @@ Local administrator access should only be granted to personnel that require to p
 
 
 
-##When to escalate instead of granting admin access. 
+## When to escalate instead of granting admin access. 
 
 
 
@@ -32,7 +32,7 @@ Escalation should occur when requests for administrator access and privileges ar
 
 
 
-##What evidence would support an exception request.
+## What evidence would support an exception request.
 
 &#x20;
 
@@ -40,7 +40,7 @@ Temporary administrative privileges may be applied when performing one-time appr
 
 
 
-##Conclusion
+## Conclusion
 
 
 
