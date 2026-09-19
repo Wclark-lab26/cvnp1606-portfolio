@@ -1,8 +1,8 @@
-\## CVNP-1606 Week 4
+## CVNP-1606 Week 4
 
 
 
-\## Ticket Information
+## Ticket Information
 
 
 
@@ -33,8 +33,7 @@ Initial Evidence: No HR share exists. Default Everyone Full Control is present o
 Required Outcome: A secured HR share with group-based permissions, ACL evidence before and after, access test results from the HR-Staff account context, and a permissions matrix that could be handed to a peer or auditor.
 
 
-
-\## Scenario
+## Scenario
 
 
 
@@ -44,21 +43,21 @@ HR is moving payroll files to a dedicated shared folder on the ACME file server.
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\-Powershell
+-Powershell
 
 
 
-\-Computer Management
+-Computer Management
 
 
 
 
 
-\## Troubleshooting Narrative
+## Troubleshooting Narrative
 
 
 
@@ -70,27 +69,27 @@ HR is moving payroll files to a dedicated shared folder on the ACME file server.
 
 
 
-4\. I would run through the code again to make sure I had all of the details and permissions correctly set up 
+4. I would run through the code again to make sure I had all of the details and permissions correctly set up 
 
 
 
-5\. I logged into the hr-staff-test account to see if I could add anything and I could not
+5. I logged into the hr-staff-test account to see if I could add anything and I could not
 
 
 
-6\. All Accounts that could reach the file were able to and had the correct permissions when in a specific group
+6. All Accounts that could reach the file were able to and had the correct permissions when in a specific group
 
 
 
 
 
-\## What I can do now 
+## What I can do now 
 
 
 
 I built a secure HR share folder at ACME, assigned group-based NTFS and share permissions, tested access from multiple account, contexts and interactions, and documented the permissions for each model so a peer or auditor could verify it. 
 
-
+No ai was used
 
 
 
