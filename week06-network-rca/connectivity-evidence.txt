@@ -1,0 +1,55 @@
+﻿
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-LHJ9KL2
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-0C-29-78-CA-D1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a5c5:38f6:4950:23ea%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.236.130(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Sunday, October 4, 2026 10:13:13 AM
+   Lease Expires . . . . . . . . . . : Sunday, October 4, 2026 11:28:12 AM
+   Default Gateway . . . . . . . . . : 192.168.236.2
+   DHCP Server . . . . . . . . . . . : 192.168.236.254
+   DHCPv6 IAID . . . . . . . . . . . : 100666409
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-32-1F-B4-E8-00-0C-29-78-CA-D1
+   DNS Servers . . . . . . . . . . . : 192.168.236.2
+   Primary WINS Server . . . . . . . : 192.168.236.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=16ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=26ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=18ms TTL=128
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=128
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 16ms, Maximum = 50ms, Average = 27ms
+Server:  UnKnown
+Address:  192.168.236.2
+
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+RemotePort             : 80
+InterfaceAlias         : Ethernet0
+SourceAddress          : 192.168.236.130
+PingSucceeded          : True
+PingReplyDetails (RTT) : 34 ms
+TcpTestSucceeded       : False
+
+
+
