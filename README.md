@@ -18,5 +18,7 @@ portal screenshots, logs) — not writeups about work, the work itself.
 | 02 | [User FAQ](week02-user-faq) | Validated user-facing documentation |
 | 03 | [Account Audit](week03-account-audit)| Created, mangaged and audited local Windows accounts|
 | 04 | [Permissions Matrix](week04-permissions-matrix)| Granted, removed and managed permissions for company groups|
+| 05 | [Performance Report](week05-performance-report)| Performance and Startup Triage|
+| 06 | [Networking and Remote Support](week06-network-rca)| Isolated and assisted with network and pinging issues|
 Built with disclosed, verified AI assistance per the AI Technician's Code
 (see ai-disclosure.md files) — ask me about catching AI mistakes with evidence.
