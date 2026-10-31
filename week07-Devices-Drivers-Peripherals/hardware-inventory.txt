@@ -1,0 +1,39 @@
+Intel(R) 82574L Gigabit Network Connection. 
+
+
+
+Get-PnpDevice.     (13:50, 2026-10-11)
+
+Error      Net             Intel(R) 82574L Gigabit Network Connection                                       PCI\VEN_...
+
+
+Device manager.		(13:54, 2026-10-11)
+
+General
+
+- Code 22
+
+
+Driver		(13:55, 2026-10-11)
+
+- Driver Provider: Microsoft
+
+- Driver Date: 8/3/2015
+
+- Driver Version: 12.19.1.32
+
+- Digital Signer: Microsoft Windows
+
+
+Details.	(13:55, 2026-10-11)
+
+Hardware Ids
+
+- Value: 
+	PCI\VEN_8086&DEV10D3&SUBSYS07D015AD&REV_00
+	PCI\VEN_8086&DEV10D3&SUBSYS07D015AD
+	PCI\VEN_8086&DEV10D3&CC_020000
+	PCI\VEN_8086&DEV10D3&CC_0200
+
+
+

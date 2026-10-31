@@ -1,2 +1,24 @@
-# cvnp1606-portfolio
-CVNP1606 Windows OS Support — evidence portfolio
+# [William Clark] — Windows 11 Endpoint Support Portfolio
+
+Hands-on support work from a 16-week Windows 11 administration course:
+every folder is a completed ticket with captured evidence (command output,
+portal screenshots, logs) — not writeups about work, the work itself.
+
+**Looking for:** help desk / desktop support / junior endpoint admin roles.
+
+## Highlights
+- [week08-rca/](week08-rca/) — root-cause analysis of an endpoint crash, built from Event Viewer forensics
+- [week10-intune-enrollment/](week10-intune-enrollment/) — enrolled and verified a device in Entra/Intune, incl. diagnosing a broken enrollment
+- [week16-final-audit/](week16-final-audit/) — full endpoint audit: four findings, evidence, and a health-report script I wrote
+
+## Every week at a glance
+| Week | Ticket | Skill shown |
+|------|--------|-------------|
+| 01 | [Build sheet](week01-build-sheet) | Windows 11 build + evidence-backed baseline |
+| 02 | [User FAQ](week02-user-faq) | Validated user-facing documentation |
+| 03 | [Account Audit](week03-account-audit)| Created, mangaged and audited local Windows accounts|
+| 04 | [Permissions Matrix](week04-permissions-matrix)| Granted, removed and managed permissions for company groups|
+| 05 | [Performance Report](week05-performance-report)| Performance and Startup Triage|
+| 06 | [Networking and Remote Support](week06-network-rca)| Isolated and assisted with network and pinging issues|
+Built with disclosed, verified AI assistance per the AI Technician's Code
+(see ai-disclosure.md files) — ask me about catching AI mistakes with evidence.

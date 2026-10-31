@@ -1,0 +1,23 @@
+=== CVNP1606-W08 Evidence Report ===
+Generated : 2026-10-14 01:23:40
+Host      : DESKTOP-LHJ9KL2
+
+[SYSTEM LOG — CRITICAL & ERROR (last 7 days)]
+  No Critical or Error events found in the last 7 days.
+
+[UNEXPECTED SHUTDOWN EVENTS (6008 / 41)]
+  2026-08-27 15:38:50  ID:41  The system has rebooted without cleanly shutting down first. This error could be
+  2026-08-27 15:38:54  ID:6008  The previous system shutdown at 5:32:42 PM on ‎8/‎26/‎2026 was unexpected.
+  2026-08-26 17:29:13  ID:41  The system has rebooted without cleanly shutting down first. This error could be
+  2026-08-26 17:29:15  ID:6008  The previous system shutdown at 5:19:09 PM on ‎8/‎26/‎2026 was unexpected.
+  2026-08-26 17:19:07  ID:41  The system has rebooted without cleanly shutting down first. This error could be
+  2026-08-26 17:19:09  ID:6008  The previous system shutdown at 4:38:03 PM on ‎8/‎26/‎2026 was unexpected.
+  2026-08-26 15:17:32  ID:41  The system has rebooted without cleanly shutting down first. This error could be
+  2026-08-26 15:17:35  ID:6008  The previous system shutdown at 12:54:56 PM on ‎8/‎25/‎2026 was unexpected.
+
+[LAST BOOT]
+  Last boot : 2026-10-13 23:07:02
+
+[REQUIRED FILES]
+
+Commit this file (evidence-report.txt) to your GitHub repo under week08-rca/.

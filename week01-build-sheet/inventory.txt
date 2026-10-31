@@ -1,0 +1,3 @@
+CsName          WindowsProductName OsVersion  BiosFirmwareType
+------          ------------------ ---------  ----------------
+DESKTOP-LHJ9KL2 Windows 10 Pro     10.0.26200             Uefi
