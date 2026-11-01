@@ -1,0 +1,51 @@
+=== CVNP1606-W09 Evidence Report (Midterm) ===
+Generated : 2026-10-31 21:27:28
+Host      : 1606MIDTERM
+
+[TICKET A — ACCOUNT STATE]
+  1606Administrator            Enabled: True  LockedOut:
+  acme-pos-cashier01           Enabled: True  LockedOut:
+  Administrator                Enabled: False  LockedOut:
+  Guest                        Enabled: False  LockedOut:
+  WDAGUtilityAccount           Enabled: False  LockedOut:
+
+[TICKET B — TOP PROCESSES (CPU)]
+  explorer                     CPU: 7.2s   WS: 257 MB
+  SearchHost                   CPU: 2.3s   WS: 218.3 MB
+  powershell                   CPU: 2.1s   WS: 77.9 MB
+  Notepad                      CPU: 1.7s   WS: 107 MB
+  OneDrive                     CPU: 1.3s   WS: 73.6 MB
+  M365Copilot                  CPU: 1.2s   WS: 104.5 MB
+  StartMenuExperienceHost      CPU: 0.7s   WS: 103.4 MB
+  audiodg                      CPU: 0.7s   WS: 10.6 MB
+
+[TICKET C — PNP DEVICE STATUS]
+  Status: Unknown      Class: SoftwareDevice       Name: Bluetooth
+  Status: Unknown      Class: AudioEndpoint        Name: Speakers (High Definition Audio Device)
+  Status: Unknown      Class: MEDIA                Name: Microsoft Streaming Service Proxy
+  Status: Unknown      Class: Net                  Name: WAN Miniport (PPPOE)
+  Status: Unknown      Class: SoftwareDevice       Name: Microsoft RRAS Root Enumerator
+  Status: Unknown      Class: Net                  Name: WAN Miniport (PPTP)
+  Status: Unknown      Class: Net                  Name: WAN Miniport (IKEv2)
+  Status: Unknown      Class: Processor            Name: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+  Status: Unknown      Class: Processor            Name: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+  Status: Unknown      Class: AudioEndpoint        Name: Microphone (High Definition Audio Device)
+  Status: Unknown      Class: Bluetooth            Name: Generic Bluetooth Adapter
+  Status: Unknown      Class: Volume               Name: Volume
+  Status: Unknown      Class: Monitor              Name: Generic Monitor
+  Status: Unknown      Class: Net                  Name: WAN Miniport (Network Monitor)
+  Status: Unknown      Class: Net                  Name: WAN Miniport (IP)
+  Status: Unknown      Class: Bluetooth            Name: Microsoft Bluetooth Enumerator
+  Status: Unknown      Class: Net                  Name: WAN Miniport (SSTP)
+  Status: Unknown      Class: Bluetooth            Name: Bluetooth Device (RFCOMM Protocol TDI)
+  Status: Unknown      Class: Net                  Name: Bluetooth Device (Personal Area Network)
+  Status: Unknown      Class: Net                  Name: WAN Miniport (IPv6)
+  Status: Unknown      Class: Net                  Name: WAN Miniport (L2TP)
+
+[TICKET D — NETWORK STATE]
+  Ethernet0 : 192.168.236.134/24  GW: 192.168.236.2
+  Ping 127.0.0.1 : REACHABLE
+  Ping 8.8.8.8 : REACHABLE
+
+[SECURITY LOG — LOCKOUT EVENTS (4625 / 4740, last 24h)]
+  No lockout events in last 24h.
