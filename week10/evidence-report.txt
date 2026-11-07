@@ -1,0 +1,24 @@
+﻿=== CVNP1606-W10 Evidence Report ===
+Generated : 2026-11-06 19:36:46
+Host      : DESKTOP-LHJ9KL2
+
+[DEVICE JOIN STATE (dsregcmd /status)]
+               AzureAdJoined : NO
+            EnterpriseJoined : NO
+                DomainJoined : NO
+             WorkplaceJoined : YES
+           WorkplaceDeviceId : ec9149bb-9955-4ed0-85b7-c04a0ef9c4e1
+         WorkplaceTenantName : Alexandria
+             WorkplaceMdmUrl : https://enrollment.manage.microsoft.com/enrollmentserver/discovery.svc
+
+[MDM ENROLLMENT (registry)]
+  MDM enrollment records found: 39
+
+[REQUIRED FILES]
+  join-state-evidence.md : FOUND (441 bytes)
+  tenant-setup-notes.md : FOUND (1007 bytes)
+  pilot-group-design.md : FOUND (1170 bytes)
+  enrollment-diagnosis.md : FOUND (441 bytes)
+  README.md : NOT FOUND
+
+Commit this file (evidence-report.txt) to your GitHub repo under week10-intune-enrollment/.
