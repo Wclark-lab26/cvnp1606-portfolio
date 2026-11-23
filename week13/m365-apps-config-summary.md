@@ -10,7 +10,7 @@ Management in Intune:
 
 
 
-Once set in Intune, devices pull updates from the Office Content Delivery Network and using background update policies and Delivery Optimization. When deploying, the Configuration designer and assigned as required, Intune reevaluates and enforces the selected channel on policy refresh—so conflicting channel policies can switch device channels. 
+Once set in Intune, devices pull updates from the Office Content Delivery Network and using background update policies and Delivery Optimization. When deploying, the Configuration designer and assigned as required, Intune reevaluates and enforces the selected channel on policy refresh so conflicting channel policies can switch device channels. 
 
 
 
